@@ -1,0 +1,19 @@
+# IntelliJ project files
+.idea
+/build
+
+# gradle
+.gradle
+
+
+.DS_Store
+.editorconfig
+.travis.yml
+README.adoc
+appveyor.yml
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+gradlew
+gradlew.bat
+npmw
+settings.gradle
